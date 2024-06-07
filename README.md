@@ -1,2 +1,3 @@
+
 ```math
-\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8](https://raw.githubusercontent.com/AugieDog08/AugieDog08/main/com.jumpgames.rswrb-3ec58af2-3a2b-4a39-9ee7-ba5af64615d4_512x512.webp)');]{x0000}$}
+\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('');]{x0000}$}
