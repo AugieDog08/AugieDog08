@@ -6,5 +6,5 @@
 ```
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 999; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: .7; background-repeat: no-repeat; background-size: 100% 100%; height: 500px; width: 500px; background-image: url('https://github.com/AugieDog08/AugieDog08/blob/main/skeleton-guy-giving-you-the-middle-finger.gif?raw=true');]{x0000}$}
+\ce{$\unicode[pointer-events: none; z-index: 999; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: .7; background-repeat: no-repeat; background-size: 100% 100%; height: 500px; width: 500px; background-image: url('https://github.com/AugieDog08/AugieDog08/blob/main/skeleton-guy-giving-you-the-middle-finger.gif?raw=true');]{x0000}$}
 ```
